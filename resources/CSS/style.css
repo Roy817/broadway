@@ -21,7 +21,7 @@ h3 {
 
 .main-banner p {
   font-size: 18px;
-  Color: white;
+  color: white !important;
 }
 
 .main-banner {
