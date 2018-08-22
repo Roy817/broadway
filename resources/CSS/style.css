@@ -14,6 +14,11 @@ h2 {
   font-weight: bold;
 }
 
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
 .main-banner p {
   font-size: 18px;
   Color: white;
@@ -22,4 +27,23 @@ h2 {
 .main-banner {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
   background-size: cover;
+}
+
+.mid-section p {
+  font-size: 14px;
+}
+
+#low-banner {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-size: cover;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.bottom-section {
+  text-align: left;
+  background-color: dimgrey;
+  color: white;
+  font-size: 11px;
 }
